@@ -1,7 +1,5 @@
-# Jamor-DEVRJ
-Hello World! Me chamo Jaime Moraes tenho 43 anos e sou do Rio de Janeiro-RJ. Sou graduado em Processos Gerenciais, sou um dos dinossauros fans da tecnologia desde 1995 quando tive o meu primeiro contato com um computador e sistema operacional, na epoca ainda o velho MS-DOS / Windows 3.11 e 95. 
-
-Buscando uma transição de carreira e voltando a aprender novas tecnologias.
+# **Hello World!**
+Me chamo Jaime Moraes tenho 43 anos e sou do Rio de Janeiro-RJ. Sou graduado em Processos Gerenciais, sou um dos dinossauros fans da tecnologia desde 1995 quando tive o meu primeiro contato com um computador e sistema operacional, na epoca ainda o velho MS-DOS / Windows 3.11 e 95. 
 
 Mas durante a minha trajetoria de vida infelizmente me afastei desse caminho e explorando outros mares. Estive no setor gráfico por 10 anos, onde me desenvolvi minhas habilidades profissionais e pessoais, assumindo cargos de liderança e gerenciando de equipes.
 
