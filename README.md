@@ -11,7 +11,7 @@ Mas foi 2021, durante pandemia do covid-19 que meu irmão(desenvolvedor) me pres
 
 
 # Tecnologias & Habilidades
-### **"A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais."** 
+### **"A alegria que se tem em pensar e aprender, faz-nos pensar e aprender ainda mais."** 
 *Aristóteles*
 
 <div align="center">
