@@ -1,5 +1,5 @@
 # **Hello World!**
-Me chamo Jaime Moraes, sou do Rio de Janeiro-RJ. Tecnólogo em Processos Gerenciais, sou um dos dinossauros fans da tecnologia. Em 1995 foi quando tive o meu primeiro contato com um computador e sistema operacional, na epoca ainda o velho MS-DOS / Windows 3.11 e 95. 
+Me chamo Jaime Moraes, sou do Rio de Janeiro-RJ. Atualmente cursando Analise e Desenvolvimento de Sistemas também sou Tecnólogo em Processos Gerenciais. Um do dinossauro fan de tecnologia. Em 1995 foi quando tive o meu primeiro contato com um computador e sistema operacional, na epoca ainda o velho MS-DOS / Windows 3.11 e 95. 
 
 Mas durante a minha trajetoria de vida infelizmente me afastei desse caminho e explorando outros mares. Estive no setor gráfico por 10 anos, onde me desenvolvi minhas habilidades profissionais e pessoais, assumindo cargos de liderança e gerenciando de equipes.
 
